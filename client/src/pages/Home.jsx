@@ -1,6 +1,6 @@
 import React from 'react'
-import SideBar from './sidebar/SideBar.jsx'
-import MessageContainer from './messages/MessageContainer.jsx'
+import SideBar from '../components/sidebar/SideBar.jsx'
+import MessageContainer from '../components/messages/MessageContainer.jsx'
 
 const Home = () => {
   return (
